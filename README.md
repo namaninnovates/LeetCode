@@ -1,3 +1,7 @@
 # LeetCode
 Contains all the Leetcode questions done by me
-^^Hello World^^
+
+```java
+System.out.println("DSA in JAVA")
+
+```
